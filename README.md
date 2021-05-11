@@ -9,7 +9,7 @@ It is a secure chat that stores your messages encrypted on a server. While sendi
 ### Known problems that need to be fixed
 - public keys should be stored in some public blockchain
 - there should be a proper session management because tcp connections can be spoofed
-- client polls every second to get all messages from server which is really inefficient(it is ok for a PoC)
+- client polls every second to get all messages from server which is really inefficient
 - server uses a SQLite which is also quite inefficient
 
 ### How to start
