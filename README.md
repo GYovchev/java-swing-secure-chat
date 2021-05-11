@@ -15,4 +15,4 @@ It is a secure chat that stores your messages encrypted on a server. While sendi
 ### How to start
 Run the server, then run a few clients. Register with usernames and passwords then log in.
 
-Note: you should use different filenames for the private keys of the different users so 
+Note: you should use different filenames for the private keys of the different users so that they don't overwrite each other.
